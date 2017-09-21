@@ -3,3 +3,5 @@
 *.orig
 *.bak
 version.h
+
+\.vs/

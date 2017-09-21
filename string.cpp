@@ -22,9 +22,9 @@
 #include <basic_definitions>
 #include <char_traits>
 #include <string>
-#include <string_iostream>
+//#include <string_iostream>
 #include <string.h>
-#include <ostream>
+//#include <ostream>
 
 namespace std{
 
